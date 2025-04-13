@@ -223,7 +223,7 @@ body {
 .inner.one::before {
     position: absolute;
     content: '';
-    background: url('image/traitym.png');
+    background: url('traitym.png');
     background-size: cover;
     width: 30px;
     height: 30px;
@@ -264,7 +264,7 @@ body {
 
 .inner.three::before {
     position: absolute;
-    background: url('image/traitym.png');
+    background: url('traitym.png');
     background-size: cover;
     width: 30px;
     height: 30px;
